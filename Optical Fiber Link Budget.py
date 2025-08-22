@@ -3,7 +3,7 @@
 
 ##############      ##############     ###############
 
-## fiber project
+## Optical fiber project
 
 
 
